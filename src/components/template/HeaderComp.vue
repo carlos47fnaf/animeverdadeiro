@@ -2,8 +2,6 @@
 <template>
   <header>
     <div class="esquerdo">Animes<strong>Vue</strong></div>
-   
-    <div class="direita">Perfil</div>
   </header>
 </template>
 <style scoped>
